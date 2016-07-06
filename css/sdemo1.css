@@ -1,0 +1,150 @@
+body
+{
+	
+	margin:0px;0px;
+}
+h3{
+	display:block;
+	background-image:url(images/back.jpg);
+	margin-top:0px;
+	padding:10px;
+	color:#FFF;
+	margin-bottom:0px;
+	
+	border-style:groove;
+	border-color:#9FF;
+	font-family:"Comic Sans MS", cursive;
+	margin-left:5px;
+	margin-right:5px;
+}
+#maindiv{
+background-color:#999;
+width:100%;
+height:750px;
+}
+#topdiv{
+background-color:#03C;
+width:100%;
+height:102px;
+}
+#topleft{
+float:left;
+background-color:#9CF;
+height:102px;
+width:19%;
+}
+#topright
+{	float:left;
+	background-color:#9CF;
+	width:81%;
+	height:52px;
+	padding-top:50px;
+	
+}
+#left{
+	height:650px;
+	width:25%;
+	float:left;
+	height:648px;
+}
+#midleftfirst
+{
+	height:280px;
+	width:100%;
+	padding:20px;
+	background-color:#0F9;
+	color:#FFF;
+	font-family:"Comic Sans MS", cursive;
+}
+#midleftfirst .td1{
+	background-color:#30F;
+	width:30px;
+	height:50px;
+	transition: width 1s;
+	z-index:-1;
+	display:block;
+	
+}
+#midleftfirst .td1:hover
+{
+	width:200px;
+}
+.vspan
+{
+margin-left:40px; display:inline-block; padding-top:15px ;height:50px;	
+}
+#midleftbot{
+	display:block;
+	height:348px;
+	width:100%;
+	background-color:#FF6;
+}
+#midmid{
+	height:668px;
+	float:left;
+	background-color:#69C;
+	display:block;
+	width:50%;
+	
+}
+#right{
+	height:648px;
+	width:25%;
+	float:left;
+}
+#rightmid{
+	height:330px;
+	
+	background-color:#0F9;
+	display:block;
+	width:100%;
+}
+#loginform{
+	padding-top:23px;
+	padding-bottom:52px; 
+}
+#loginform h1{
+	color:#063;
+	font-family:"Comic Sans MS", cursive;
+}
+#rightmid .input1{
+	height:30px;
+	background-color:#CFC;
+	border:medium;
+	border-color:#360;
+	border-radius:5px;
+	padding-left:12px;
+	width:250px;
+}
+#marq{
+background-color:#9CF;
+margin-left:20px;
+
+margin-right:20px;
+border-style:inset;
+border-color:#9FF;
+}
+.mq{
+	direction:up;
+	padding-left:30px;
+	margin-top:20px;
+	height:250px;
+	
+}
+#rightmid .input2{
+	height:40px;
+	background-color:#54A800;
+	border-color:#360;
+	border:thick;
+	border-radius:5px;
+	width:200px;
+	cursor:pointer;
+	color:#FFF;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+ 
+}
+#rightmidbot{
+	height:348px;
+	background-color:#63F;
+}

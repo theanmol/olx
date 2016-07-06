@@ -1,0 +1,54 @@
+#topdiv{
+	background-color:#73A889;
+	padding:30px;
+}
+
+.forma{
+	display: block;
+  float:left;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right:10px;
+  
+}
+#login
+{
+	visibility:hidden;
+}
+#cross
+{
+	float:right;
+	cursor:pointer;
+}
+
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
+}
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+	margin: 20px;
+}
+#bottom
+{
+
+}
+.rightf
+{
+	float:right;
+	font-size:small;
+	text-align:right;
+}
+.submenu
+{
+}

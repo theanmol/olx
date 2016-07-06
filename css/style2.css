@@ -1,0 +1,56 @@
+@charset "utf-8";
+#topdiv{
+	background-color:#73A889;
+	padding:30px;
+}
+
+ul{
+	margin:0px;
+	list-style:none;
+	padding:0px;
+}
+ul li{
+	float:left;
+	background-color:#F00;
+	width:200px;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+}
+ul li a{
+color:#FFF;
+font-size:24px;
+font-weight:bold;
+font-style:italic;
+text-decoration:none;
+}
+ul li ul li{
+	background-color:#00F;
+	display:none;
+}
+ul li ul li a{
+	color:#FF0;
+	font-size:18px;
+}
+ul li ul li:hover{
+background-color:#0FF;
+}
+ul li:hover{
+	background-color:#0F0;
+}
+
+
+#bottom
+{
+
+}
+.rightf
+{
+	float:right;
+	font-size:small;
+	text-align:right;
+}
+.submenu
+{
+}/* CSS Document */
+
